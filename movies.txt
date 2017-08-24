@@ -1,0 +1,9 @@
+The Godfather	Crime, Drama	1972	9.2
+The Shawshank Redemption	Crime, Drama	1994	9.2
+The Dark Knight	Action,Crime, Drama	2008	9.0
+Inception	Sci-Fi	2010	8.8
+Interstellar	Sci-fi	2014	8.5
+Wall-e	Sci-fi	2008	8.4
+Die Hard	Action	1988	8.2
+The Godfather :Part 2	Crime, drama	1974	9.0
+La La Land	Comedy, Drama, Music	2016	8.2
